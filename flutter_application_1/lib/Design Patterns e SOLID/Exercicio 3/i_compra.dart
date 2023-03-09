@@ -1,6 +1,6 @@
 import 'cidades.dart';
 
-class Compra {
+abstract class Compra {
   final int codigoProduto;
   final double valor;
   final Cidades cidade;

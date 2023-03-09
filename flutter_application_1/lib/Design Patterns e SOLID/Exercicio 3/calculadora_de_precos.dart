@@ -1,5 +1,5 @@
 import 'cidades.dart';
-import 'compra.dart';
+import 'i_compra.dart';
 
 class CalculadoraDePrecos {
   double calcula(Compra compra) {

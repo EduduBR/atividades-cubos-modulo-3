@@ -1,5 +1,5 @@
 import 'package:flutter_application_1/Design%20Patterns%20e%20SOLID/Exercicio%203/cidades.dart';
-import 'package:flutter_application_1/Design%20Patterns%20e%20SOLID/Exercicio%203/compra.dart';
+import 'package:flutter_application_1/Design%20Patterns%20e%20SOLID/Exercicio%203/i_compra.dart';
 
 
 class Frete implements Compra{
