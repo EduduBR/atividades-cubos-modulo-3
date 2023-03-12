@@ -32,6 +32,6 @@ class AgendamentoBuilder implements Agendamento {
     Data: $dataHora
     Barbeiro: $barbeiro
     Fone: ${fone()}
-    Extra: ${servicos}''';
+    Extra: $servicos''';
   }
 }
